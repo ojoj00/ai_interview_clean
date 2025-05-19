@@ -34,6 +34,7 @@ yarn-error.log*
 .env*
 firebase-config.json
 app/firebase/*.json
+app/firebase/interviewproject-9411e-firebase-adminsdk-fbsvc-89b4fcf3ef.json
 
 # vercel
 .vercel
